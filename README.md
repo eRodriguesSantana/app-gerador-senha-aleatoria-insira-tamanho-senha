@@ -4,4 +4,4 @@
 <strong>100% Kotlin</strong><br>
 <strong>Interface feita totalmente de forma manual em XML</strong>
 
-https://user-images.githubusercontent.com/27317860/131932122-4c8f26c0-392f-4472-8f65-5f74a7e72169.mp4
+https://user-images.githubusercontent.com/27317860/131934889-d37040df-82b5-46b9-91a6-e17b7eb22354.mp4
